@@ -16,7 +16,7 @@
     </developers>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:dummy-org-00/dummy-api.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/dummy-org-00/dummy-api.git</developerConnection>
         <url>https://github.com/dummy-org-00/dummy-api</url>
         <tag>HEAD</tag>
     </scm>
