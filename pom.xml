@@ -6,6 +6,8 @@
     <artifactId>dummy-api</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
+    <description>Dummy API</description>
+
     <developers>
         <developer>
             <id>dummy-org-00</id>
