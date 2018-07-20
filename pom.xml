@@ -4,7 +4,7 @@
 
     <groupId>dummy-org-api</groupId>
     <artifactId>dummy-api</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
 
     <description>Dummy API description</description>
 
