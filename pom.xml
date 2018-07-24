@@ -4,7 +4,7 @@
 
     <groupId>dummy-org-api</groupId>
     <artifactId>dummy-api</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6-SNAPSHOT</version>
 
     <description>Dummy API description</description>
 
@@ -18,7 +18,7 @@
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/dummy-org-00/dummy-api.git</developerConnection>
         <url>https://github.com/dummy-org-00/dummy-api</url>
-        <tag>1.0.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
